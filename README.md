@@ -88,4 +88,3 @@ Here’s how you can install and start using the extension in under 2 minutes:
 ## 📄 License
 
 MIT License
-
