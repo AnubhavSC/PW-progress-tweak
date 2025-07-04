@@ -43,7 +43,7 @@ Here’s how you can install and start using the extension in under 2 minutes:
    - Select the folder where you downloaded or extracted the extension.
 
 3. **Done!**  
-   You should now see the PW Enhancer icon in your Chrome toolbar.
+   You should now see the PW Progress tweaker icon in your Chrome toolbar.
 
 ---
 
